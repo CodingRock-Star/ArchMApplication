@@ -1,4 +1,4 @@
 # ArchMApplication
-The application is a multimodel, This MultiModel draft is Inspired from
+The application is a multimodule, This MultiModule draft is Inspired from
 Author --PhilippeBoisney
 https://github.com/PhilippeBoisney/ArchApp .
