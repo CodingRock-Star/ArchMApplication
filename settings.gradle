@@ -1,0 +1,7 @@
+include ':common'
+include ':data:model'
+include ':data:repository'
+include ':data:remote'
+include ':data:local'
+include ':app'
+rootProject.name = "ArchMApplication"

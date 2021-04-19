@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="ArchMApplication.app" target="1.8" />
+      <module name="ArchMApplication.buildSrc" target="1.8" />
+      <module name="ArchMApplication.common" target="1.8" />
+      <module name="ArchMApplication.data.local" target="1.8" />
+      <module name="ArchMApplication.data.remote" target="1.8" />
+      <module name="ArchMApplication.data.repository" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
