@@ -3,9 +3,13 @@ object ApplicationId {
 }
 
 object Modules {
-    val app=":app"
+    val app = ":app"
+    val common = ":common"
+    val local = ":data:local"
+    val remote = ":data:remote"
+    val model = ":data:model"
+    val repository = ":data:repository"
 }
-
 object Versions {
     val kotlin = "1.3.21"
     val gradle = "4.1.0"
@@ -95,4 +99,8 @@ object TestLibraries {
     val coroutine = "org.jetbrains.kotlinx:kotlinx-coroutines-test:${Versions.coroutines}"
     // DATA BINDING
     val databinding = "androidx.databinding:databinding-compiler:${Versions.databinding}"
+}
+object Releases {
+    val versionCode = 1
+    val versionName = "1.0"
 }
